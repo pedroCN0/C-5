@@ -1,0 +1,45 @@
+1-	Objeto é aquilo que se identifica de uma classe por exemplo, o objeto “Macarrão” é da classe “Massas” a classe é o que identifica objetos contendo métodos e atributos.
+
+2-	C.
+
+3-	Veiculo carro = new Veiculo();
+
+4-	Abaixo
+
+5-	B.
+
+6-	E.
+
+7-	Verdadeiro
+
+8-	2: "Você escolheu a opção 2"; 1: "Você escolheu a opção 1"; q: Repetir o “while”.
+
+9-	B.
+
+10-	B.
+
+11-	Não fiz...
+
+Program.cs:
+
+            double a, b, c;
+            Pessoa N = new Pessoa();
+            Console.WriteLine("Digite o peso do individuo:");
+            a = double.Parse(Console.ReadLine());
+            Console.WriteLine("Agora, digite a altura do individuo:");
+            b = double.Parse(Console.ReadLine());
+            c = N.IMC(a, b);
+            Console.WriteLine("O IMC do indivíduo é: {0}", c);
+            Console.ReadKey();
+
+Pessoa.cs:
+
+    class Pessoa
+    {
+        public double IMC(double x, double k)
+        {
+            double i;
+            i = x / (k * k);
+            return i;
+        }
+    }

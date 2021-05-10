@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Desktop\Resposta4\Resposta4\bin\Debug\Resposta4.exe.config
+C:\Users\Tecnico\Desktop\Resposta4\Resposta4\bin\Debug\Resposta4.exe
+C:\Users\Tecnico\Desktop\Resposta4\Resposta4\bin\Debug\Resposta4.pdb
+C:\Users\Tecnico\Desktop\Resposta4\Resposta4\obj\Debug\Resposta4.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\Resposta4\Resposta4\obj\Debug\Resposta4.exe
+C:\Users\Tecnico\Desktop\Resposta4\Resposta4\obj\Debug\Resposta4.pdb
